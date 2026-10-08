@@ -1,0 +1,32 @@
+Git command demonstration transcript (replace placeholders with your actual output)
+
+$ git init
+Initialized empty Git repository
+
+$ git status
+On branch main
+
+$ git add .
+$ git commit -m "Initial project setup"
+
+$ git branch
+* main
+
+$ git checkout -b feature/todo-ui
+Switched to a new branch 'feature/todo-ui'
+
+$ git add .
+$ git commit -m "Add To-Do interface"
+
+$ git remote -v
+origin  https://github.com/YOUR-USERNAME/git-todo-list.git (fetch)
+origin  https://github.com/YOUR-USERNAME/git-todo-list.git (push)
+
+$ git push -u origin feature/todo-ui
+
+$ git checkout main
+$ git pull origin main
+$ git merge feature/todo-ui
+$ git push origin main
+
+$ git log --oneline --graph --all
