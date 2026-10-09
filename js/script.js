@@ -12,7 +12,7 @@ function updateTaskCount() {
 }
 
 function renderTasks() {
-  taskList.innerHTML = "";
+  taskList.innerHTML = ""; 
 
   tasks.forEach((task, index) => {
     const li = document.createElement("li");
