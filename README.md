@@ -9,7 +9,7 @@ A simple web-based To-Do List developed by a 4-member team to demonstrate Git an
 | Member 1 | Repository & project setup | Repository, README, initial commit |
 | Member 2 | To-Do UI | HTML/CSS, feature branch |
 | Member 3 | To-Do functionality | JavaScript, feature branch |
-| Member 4 | Testing & documentation | Testing, screenshots, documentation |
+| Member 4 | Testing & documentation | Testing, screenshots, documentation, etc |
 
 > Replace Member 1–4 with your actual names.
 
