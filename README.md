@@ -26,6 +26,7 @@ A simple web-based To-Do List developed by a 4-member team to demonstrate Git an
 - JavaScript
 - Git
 - GitHub
+- Version Control
 
 ## Git Concepts Demonstrated
 1. Repository Setup
