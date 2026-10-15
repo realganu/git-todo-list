@@ -4,7 +4,7 @@
 A simple web-based To-Do List developed by a 4-member team to demonstrate Git and GitHub collaboration.
 
 ## Team
-| Member | Responsibility | Git Work | 
+| Member | Responsibility | Git Work |
 |---|---|---|
 | Member 1 | Repository & project setup | Repository, README, initial commit |
 | Member 2 | To-Do UI | HTML/CSS, feature branch |
